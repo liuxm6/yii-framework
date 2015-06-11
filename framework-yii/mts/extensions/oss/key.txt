@@ -1,0 +1,4 @@
+Access Key ID			Access Key Secret			状态	创建时间	
+AsEux5HcynPVTusx		u0ghmqk8YdPf4wlOVXMpJ1ppS52lOx		启用	2015-04-03 17:41:44	
+IyQYZIPGqe8EFxU8		cXEfSMCdfn3sGxx3sCGNUOjYXZBNDT 		启用	2015-04-03 17:00:32	
+  

@@ -1,0 +1,31 @@
+.list-table{width:100%;border-spacing:2;margin-bottom:1px;border-top:1px solid #ccc}
+.list-table .header th{padding: 0px 10px;text-align: left;height:40px;line-height:40px;font-size:14px;}
+.list-table td{padding: 0px 10px;height:40px;line-height:40px;font-size: 14px;border-right: 1px solid #d7d7d7;}
+.list-table .odd {background-color: #f7f7f7;}
+.list-table .even {background-color: #fff}
+.list-table tr.odd:hover{background-color:#CCF7E6}
+.list-table tr.even:hover{background-color:#CCF7E6}
+.list-table .header{background-color: #bcd5e9}
+.list-table .footer{background-color: #eeeeee}
+.list-table .search {}
+.list-table .search dl{float: left;height: 35px;}
+.list-table .search dl span {height:35px;line-height:35px;text-align: right;color: #016e37;}
+.list-table .search dl input {height:20px;width:120px;margin-top:7px;border: 1px solid #cccccc;margin-right:10px;margin-left:4px}
+.list-table .search dt {float: right;height: 37px;padding-left: 28px;margin-top:5px;}
+/*.page-nav{text-align: right;padding-bottom: 0px;margin: 0px 0;}*/
+
+.page-nav{ text-align:right; margin:10px 0;font-size: 14px;color: #666;}
+.page-nav a{ border:1px solid #909090; background:#fff;  display:inline-block; width:55px; height:25px; text-align:center; font:12px/2 Tahoma;}
+.page-nav a:hover{ text-decoration:none;}
+.page-nav a.cur{ border-color:#666; background-color:#76BEF8; color:#fff;}
+.page-nav a:hover, .page-nav a:not([class^="btn-"]):hover{background-image: -webkit-linear-gradient(top, #b4e391 0%,#61c419 50%,#b4e391 100%);  background:-moz-linear-gradient(top, #b4e391 0%, #61c419 50%, #b4e391 100%); text-shadow:0 -1px 0 #299A0B;}
+.page-nav .ect{ line-height:0.8; color:#2c8ac7; vertical-align:text-top;}
+.page-nav .btn-left,.page-nav .btn-right{ }
+.page-nav .btn-left{}
+.page-nav .btn-right{}
+.page-nav .btn-left-end,.page-nav .btn-right-end{ color:#ccc; background-color:white;cursor:not-allowed;}
+.page-nav .btn-left-end:hover,.page-nav .btn-right-end:hover{color:#ccc;background-color:white}
+.page-nav .page-count{color:#666;}
+.page-nav .inp-page{width:35px; height:20px; text-align:center;}
+.page-nav .btn-page{ padding:2px 4px;vertical-align:middle;}
+.page-nav button{padding:1px 6px;line-height:18px}
