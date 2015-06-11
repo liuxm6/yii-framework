@@ -1,0 +1,5 @@
+.picker-toolbar {position:absolute;right:5px;top:3px}
+.picker-data-border {border:1px solid #99BBE8;background:#EEF;margin-top:1px}
+.picker-data { overflow-y:auto;height:40px}
+.picker-data div{display:inline-block;}
+.picker-action {text-align:center;padding-top:8px}
